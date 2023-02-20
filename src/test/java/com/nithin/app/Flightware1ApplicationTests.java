@@ -1,4 +1,4 @@
-package com.nithin.app;
+package com.surya.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
